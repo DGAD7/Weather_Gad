@@ -13,7 +13,7 @@ import SwiftUI
 class VccWeatherApi: ObservableObject {
 
     @Published var weather_now : WeatherFromApi?
-    let ApiKey = " Add you Key here"
+    let ApiKey = "2b0806abf21f064a69344aa38feb64da"
     
     func WeatherCheck(city:String)async{
         print(city)
