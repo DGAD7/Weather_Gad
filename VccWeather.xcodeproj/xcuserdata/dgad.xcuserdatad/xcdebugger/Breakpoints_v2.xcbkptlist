@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15D56A71-4F19-4F00-A551-6ABCB1A3E442"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VccWeather/WeatherApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "GetWeather(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 17a37ea4372b7cf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 5d15424f1900f1c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 9d168f0b820379f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1844">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd215"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "C4D08482-A8F7-46A9-8DA4-506A7D6D3639 - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VccWeather/WeatherApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "GetWeather(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA - 1eacf4687e6dd370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+               <Location
+                  uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA - 1eacf4687e6dd353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "858E2465-A78B-4244-857C-FD97A99BF9CA - 1eacf4687e6dd353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather() async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "740">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C4CE86B-93D1-40B6-A3DF-3CEE94CD131C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VccWeather/WeatherData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "WeatherData"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A840F143-3F48-4C5E-8C49-E84C372965E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VccWeather/WeatherApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "GetWeather(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E135DB12-45D9-42B7-8833-C1940399ABB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VccWeather/WeatherApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "GetWeather(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5201372-5AC5-467E-80C5-92888578FC30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VccWeather/WeatherApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "GetWeather(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5201372-5AC5-467E-80C5-92888578FC30 - 229bb94bef6f8dab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather(city: Swift.String) async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "F5201372-5AC5-467E-80C5-92888578FC30 - 229bb94bef6f8dab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather(city: Swift.String) async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+               <Location
+                  uuid = "F5201372-5AC5-467E-80C5-92888578FC30 - 229bb94bef6f8dab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VccWeather.VccWeatherApi.GetWeather(city: Swift.String) async -&gt; ()"
+                  moduleName = "VccWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dgad/Documents/MyApps/VccWeather/VccWeather/WeatherApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
