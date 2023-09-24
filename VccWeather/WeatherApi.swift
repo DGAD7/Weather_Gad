@@ -13,17 +13,18 @@ import SwiftUI
 class VccWeatherApi: ObservableObject {
 
     @Published var weather_now : WeatherFromApi?
+    let ApiKey = " Add you Key here"
     
     func WeatherCheck(city:String)async{
         print(city)
         if city == "New York"{
             let lat = 43.0004
             let lon = -75.4999
-            guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?lat=\(lat)&lon=\(lon)&appid=2b0806abf21f064a69344aa38feb64da&units=metric") else { return  }
+            guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?lat=\(lat)&lon=\(lon)&appid=\(ApiKey)&units=metric") else { return  }
             await GetWeather(url:url)
         
         }else {
-            guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?q=\(city)&appid=2b0806abf21f064a69344aa38feb64da&units=metric") else { return  }
+            guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?q=\(city)&appid=\(ApiKey)&units=metric") else { return  }
             await GetWeather(url:url)
         }
     }
