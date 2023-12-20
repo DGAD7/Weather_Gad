@@ -11,7 +11,7 @@ The application shows current's weather for specific cities (listed below) using
 Gothenburg Stockholm Mountain View London New York Berlin
    
  • The weather for a specific city is presented in the application by: showing a corresponding icon that you could build following this
-documentation: https://openweathermap.org /weather-conditions
+documentation: https://openweathermap.org/weather-conditions
 
 
   Note : To run this app api Key needs to be used
